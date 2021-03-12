@@ -1,2 +1,2 @@
 # NIMS_Intern
-2020년 국가수리과학연구소 산업수학 학부연수생
+2020' National Institute for Mathematical Sciences, NIMS - Undergraduate research student
